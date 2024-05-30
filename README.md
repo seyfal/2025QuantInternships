@@ -79,6 +79,8 @@ QT = Quantitative Trading
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
 
+------
+
 Don't know a lot about them
 
 | Company| Location|SWE|QR|QT|Status| Notes|
@@ -92,6 +94,8 @@ Don't know a lot about them
 | [Eschaton Trading](https://www.eschatontrading.com/careers)| | | | | |  |
 | [Prime Trading](https://www.prime-trading.com/careers)| | | | | |  |
 | [3Red Partners](https://www.3redpartners.com/careers/)| | | | | |  |
+
+------
 
 Other list of quant trading events and competitions for students (found on linkedin) 
 
