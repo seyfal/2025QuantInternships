@@ -78,7 +78,6 @@ QT = Quantitative Trading
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
-| [XRTrading](https://xrtrading.com)| | | | | |  |
 
 Don't know a lot about them
 
@@ -86,6 +85,7 @@ Don't know a lot about them
 |-------------------------|-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Tradebot](https://www.tradebot.com/careers)| | | | | |  |
 | [Eagle Seven](https://www.eagleseven.com)| | | | | |  |
+| [XRTrading](https://xrtrading.com)| | | | | |  |
 | [Sumo](https://sumo.co)| | | | | |  |
 | [DV Trading](https://dvtrading.co/join-dv/#jobs)| | | | | |  |
 | [Edgehog Trading](https://edgehog-trading.rippling-ats.com/job/486181/junior-trader)| | | | | |  |
