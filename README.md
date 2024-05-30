@@ -86,7 +86,6 @@ Here is the updated list with the additional companies you provided:
 | [XRTrading](https://xrtrading.com)| | | | | |  |
 | [Tradebot](https://www.tradebot.com/careers)| | | | | |  |
 | [Eagle Seven](https://www.eagleseven.com)| | | | | |  |
-| [Blackedge](https://www.blackedge.com)| | | | | |  |
 | [Sumo](https://sumo.co)| | | | | |  |
 | [DV Trading](https://dvtrading.co/join-dv/#jobs)| | | | | |  |
 | [Edgehog Trading](https://edgehog-trading.rippling-ats.com/job/486181/junior-trader)| | | | | |  |
