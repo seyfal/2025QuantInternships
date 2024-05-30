@@ -2,9 +2,9 @@
 
 Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏 <br />
 
-**(Format forked from QuantStart. Updated and Maintained by the Northwestern Fintech Club.)**  <br />
+Forked from northwesternfintech. <br />
 
-Are you a firm looking to reach quant interns? Let us know at nuft@u.northwestern.edu and we will take care of adding your positions. 
+Make a pull request to make an addition. 
 
 ------
 
@@ -21,6 +21,8 @@ QT = Quantitative Trading
 
 ------
 
+
+Here is the updated list with the additional companies you provided:
 
 | Company| Location|SWE|QR|QT|Status| Notes|
 |-------------------------|-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -78,3 +80,16 @@ QT = Quantitative Trading
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
+| [XRTrading](https://xrtrading.com)| | | | | |  |
+| [Volant](https://volanttrading.com)| | | | | |  |
+| [Tradebot](https://www.tradebot.com/careers)| | | | | |  |
+| [Eagle Seven](https://www.eagleseven.com)| | | | | |  |
+| [Blackedge](https://www.blackedge.com)| | | | | |  |
+| [Sumo](https://sumo.co)| | | | | |  |
+| [Scalp Trade](https://scalptrade.com/roles/c-plus-plus-software-developer)| | | | | |  |
+| [DV Trading](https://dvtrading.co/join-dv/#jobs)| | | | | |  |
+| [Edgehog Trading](https://edgehog-trading.rippling-ats.com/job/486181/junior-trader)| | | | | |  |
+| [Eschaton Trading](https://www.eschatontrading.com/careers)| | | | | |  |
+| [Prime Trading](https://www.prime-trading.com/careers)| | | | | |  |
+| [3Red Partners](https://www.3redpartners.com/careers/)| | | | | |  |
+| [Group One](https://group1.com/careers/)| | | | | |
