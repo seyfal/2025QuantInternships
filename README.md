@@ -92,3 +92,78 @@ Don't know a lot about them
 | [Eschaton Trading](https://www.eschatontrading.com/careers)| | | | | |  |
 | [Prime Trading](https://www.prime-trading.com/careers)| | | | | |  |
 | [3Red Partners](https://www.3redpartners.com/careers/)| | | | | |  |
+
+Other list of quant trading events and competitions for students (found on linkedin) 
+
+1. Akuna Capital University (Options 101, 201) 
+2. AQR Early Engagement Day 
+3. AQR Quanta Academy 
+4. Bridgewater Investment Immersion Program 
+5. Bridgewater Rising Fellows Program
+6. Citadel Datathon / Data Open (split by region, then global finals) 
+7. Citadel Securities Terminal / Terminal AI Competition (split by region) 
+8. Citadel x Amplify Trading Challenge
+9. Citadel + CorrelationOne Summer Invitational (another name for the datathon) 
+10. Discover Citadel 
+11. Cornell Trading Competition 
+12. Cubist Quant Academy 
+13. Cubist Systematic Strategies Hackathon
+14. D. E. Shaw & Co. Discovery Fellowship 
+15. D. E. Shaw & Co. Latitude Fellowship 
+16. D. E. Shaw & Co. Momentum Fellowship 
+17. D. E. Shaw & Co. Nexus Fellowship 
+18. Duke FinTech Intercollegiate Trading Competition
+19. Flow Traders E-House Day 
+20. Flow Traders Trading Business Course 
+21. IMC UK Masterclass 
+22. IMC Prosperity Trading Competition
+23. IMC WiT (Women in Technology) 
+24. Jane Street AMP 
+25. Jane Street ETC (hack
+26. Jane Street FTTP (First-Year Trading/Technology Program) 
+27. Jane Street FOCUS 
+28. Jane Street Graduate Research Fellowship 
+29. Jane Street IN FOCUS 
+30. Jane Street INSIGHT
+31. Jane Street JSIP 
+32. Jane Street Market Prediction Kaggle Competition 
+33. Jane Street SEE 
+34. Jane Street SF Puzzle City 
+35. Jane Street Symposium 
+36. Jane Street Unboxed 
+37. Jane Street Visiting Researcher / Prefaculty 
+38. Jane Street WiSE 
+39. Jane Street - Unboxed Program 
+40. J.P. Morgan Chase Quantitative Research Virtual Experience Program 
+41. Kalshi Trading Competition 
+42. MIT Trading Competition 
+43. MIT Pokerbots 
+44. Optiver Insight Days 
+45. Optiver Trading Day 
+46. Optiver Market Making Competition
+47. Optiver Ready Trader Go
+48. Point72 Academy 
+49. Rotman International Trading Competition 
+50. Susquehanna International Group Insight Week
+51. Susquehanna International Group Freshman Discovery Day
+52. Susquehanna International Group Sophomore Discovery Day – Trading
+53. Susquehanna International Group Sophomore Discovery Day for Women – Trading
+54. Susquehanna International Group Sophomore Discovery Day – Capital Markets
+55. Susquehanna International Group Sophomore Discovery Day for Women – Capital Markets
+56. Susquehanna International Group Sophomore Discovery Day – Technology
+57. Susquehanna International Group Sophomore Discovery Day for Women – Technology
+58. Susquehanna International Group Sophomore Discovery Day – Technology Infrastructure
+59. Susquehanna International Group Sophomore Discovery Day – Growth Equity
+60. Tapia Conference 
+61. Thinkorswim Challenge 
+62. Two Sigma College Mentor Connect 
+63. Two Sigma Financial Modeling Challenge 
+64. Two Sigma PhD Fellowship 
+65. Two Sigma Undergraduate Scholarship 
+66. UC Berkeley Trading Competition 
+67. UChicago Trading Competition 
+68. Urban Initiative’s Traders Poker Tournament
+69. Virtu Financial Women’s Winternship 
+70. WorldQuant BRAIN
+
+
