@@ -1,10 +1,8 @@
 # Summer 2025 Quant Internships
 
-Feel free to submit a new job posting or suggest a change by submitting a pull request 🙏 <br />
+Feel free to submit a new job posting or suggest a change by submitting a pull request  <br />
 
 Forked from northwesternfintech. <br />
-
-Make a pull request to make an addition. 
 
 ------
 
