@@ -47,6 +47,7 @@ Here is the updated list with the additional companies you provided:
 | [Flow Traders](https://www.flowtraders.com/careers)|NYC|||✔️|| Primary focus is on ETFs. Pay tends be lower than IMC and Optiver. One of the only publicly traded quant funds.|
 | [G-Research](https://www.gresearch.co.uk/join-us/graduates/)| London||||| Also hires people out of the US. Very focused on research with a lot of people working on cutting-edge Machine Learning.|
 | [Geneva Trading](https://www.genevatrading.com/careers-open-positions/)| Chicago|✔️||✔️|||
+| [Group One](https://group1.com/careers/)| | | | | |
 | [GSA Capital](https://www.gsacapital.com/?section=careers&gh_src=)| NYC||||||
 | [HAP Capital](https://jobs.lever.co/hap-capital)|NYC|✔️|✔️|||Another options market maker. Less known than (IMC, Optiver, ...) but well known in the OMM circle.|
 | [Headlands Tech](https://www.headlandstech.com/careers/)| Chicago||||| Founded by ex-Citadel people. Max Dama works here. Similarly to Ansatz, Aquatic, and Radix, a small firm that is willing to pay more than most competitors. Known to have a large focus on C++, both among QRs and SWEs.|
@@ -65,6 +66,7 @@ Here is the updated list with the additional companies you provided:
 | [QuantLab](https://www.quantlab.com/careers)| Houston|✔️||||
 | [Radix Trading](https://radixtrading.co/)| Chicago|[✅](https://boards.greenhouse.io/radixuniversity/jobs/7463231002)||✔️||Founded by ex-Citadel people. Radix calls SWEs Quantitative Technologists. Extremely secretive.|
 | Renaissance| Setauket- East Setauket ||||| The legendary OG quant fund. They interview some normal people for SWE, but other roles tend to be extremely difficult.|
+| [Scalp Trade](https://scalptrade.com/roles/c-plus-plus-software-developer)| | | | | |  |
 | [Schonfeld](https://www.schonfeld.com/careers/)|Miami||||||
 | [Seven Eight](https://www.seveneightcapital.com/join-us)| NYC||||||
 | [SIG](https://careers.sig.com/intern-openings)|Bala Cynwyd|[✅](https://careers.sig.com/job/8218/Software-Engineering-Intern-Summer-2025)|[✅](https://careers.sig.com/job/8253/Quantitative-Research-Intern-Summer-2025)|[✅](https://careers.sig.com/job/8326/Quantitative-Trader-Internship-Summer-2025)|| Has a huge poker culture. Fairly chill culture but pay tends to be on the lower side, especially for SWEs. Considered one of the best or the best firms for traders to start their career.|
@@ -76,20 +78,18 @@ Here is the updated list with the additional companies you provided:
 | [Valkyrie Trading](https://www.valkyrietrading.com/careers/)|Chicago||✔️||||
 | [Vatic Labs](http://www.vaticinvestments.com/careers/)| NYC||✔️||| Founded by ex-Jump people. Focus on ML.|
 | [Virtu Financial](https://www.virtu.com/careers/)|NYC, Austin|✔️|✔️|✔️||Known for being very HFT MM heavy.|
+| [Volant](https://volanttrading.com)| | | | | |  |
 | [Voleon](https://voleon.com/index.html%3Fp=124.html)|Berkeley|||✔️|| Specializes in Machine Learning and recruits college students for SWE roles but primarily recruits PhD students for research roles.|
 | [Wolverine](https://www.wolve.com/open-positions#lever-jobs-container)|Chicago|✔️||||Generally a floor trader style firm.|
 | [WorldQuant](https://www.worldquant.com/career-listing/)|NYC||||||
 | [XTX Markets](https://www.xtxmarkets.com/career/internships-finance-risk-core-engineering/)|London|||||Branched out of GSA capital. Specializes in cutting edge machine learning applied to MM.|
 | [XRTrading](https://xrtrading.com)| | | | | |  |
-| [Volant](https://volanttrading.com)| | | | | |  |
 | [Tradebot](https://www.tradebot.com/careers)| | | | | |  |
 | [Eagle Seven](https://www.eagleseven.com)| | | | | |  |
 | [Blackedge](https://www.blackedge.com)| | | | | |  |
 | [Sumo](https://sumo.co)| | | | | |  |
-| [Scalp Trade](https://scalptrade.com/roles/c-plus-plus-software-developer)| | | | | |  |
 | [DV Trading](https://dvtrading.co/join-dv/#jobs)| | | | | |  |
 | [Edgehog Trading](https://edgehog-trading.rippling-ats.com/job/486181/junior-trader)| | | | | |  |
 | [Eschaton Trading](https://www.eschatontrading.com/careers)| | | | | |  |
 | [Prime Trading](https://www.prime-trading.com/careers)| | | | | |  |
 | [3Red Partners](https://www.3redpartners.com/careers/)| | | | | |  |
-| [Group One](https://group1.com/careers/)| | | | | |
